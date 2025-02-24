@@ -4,10 +4,14 @@ Este proyecto crea y analiza una base de datos para la empresa de comida rápida
 
 **Tecnologías**
 SQL Server Management Studio (T-SQL)
-Funcionalidades Clave
+Funcionalidades Clave:
 DDL, DML, DCL, TCL: Creación, manipulación y gestión de la base de datos.
+
 Consultas Avanzadas: WHERE, GROUP BY, HAVING, ORDER BY, funciones de agregación, CASE, JOINs, funciones de fecha, subconsultas.
+
 Funciones Avanzadas: Variables, vistas, procedimientos almacenados, índices, triggers.
+
 Optimización: SET STATISTICS IO ON.
-Objetivo
+
+**Objetivo**
 Desarrollar una base de datos robusta y eficiente para FastFood, con consultas que permitan extraer información valiosa para la toma de decisiones.
